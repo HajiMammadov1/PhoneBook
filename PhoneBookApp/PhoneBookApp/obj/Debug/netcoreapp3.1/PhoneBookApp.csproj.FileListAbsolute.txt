@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\PraktikaTasks\PhoneBookApp\PhoneBookApp\bin\Debug\netcoreapp3.1\PhoneBookApp.exe
+C:\Users\Admin\Desktop\PraktikaTasks\PhoneBookApp\PhoneBookApp\bin\Debug\netcoreapp3.1\PhoneBookApp.deps.json
+C:\Users\Admin\Desktop\PraktikaTasks\PhoneBookApp\PhoneBookApp\bin\Debug\netcoreapp3.1\PhoneBookApp.runtimeconfig.json
+C:\Users\Admin\Desktop\PraktikaTasks\PhoneBookApp\PhoneBookApp\bin\Debug\netcoreapp3.1\PhoneBookApp.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\PraktikaTasks\PhoneBookApp\PhoneBookApp\bin\Debug\netcoreapp3.1\PhoneBookApp.dll
+C:\Users\Admin\Desktop\PraktikaTasks\PhoneBookApp\PhoneBookApp\bin\Debug\netcoreapp3.1\PhoneBookApp.pdb
+C:\Users\Admin\Desktop\PraktikaTasks\PhoneBookApp\PhoneBookApp\obj\Debug\netcoreapp3.1\PhoneBookApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PraktikaTasks\PhoneBookApp\PhoneBookApp\obj\Debug\netcoreapp3.1\PhoneBookApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\PraktikaTasks\PhoneBookApp\PhoneBookApp\obj\Debug\netcoreapp3.1\PhoneBookApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\PraktikaTasks\PhoneBookApp\PhoneBookApp\obj\Debug\netcoreapp3.1\PhoneBookApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PraktikaTasks\PhoneBookApp\PhoneBookApp\obj\Debug\netcoreapp3.1\PhoneBookApp.dll
+C:\Users\Admin\Desktop\PraktikaTasks\PhoneBookApp\PhoneBookApp\obj\Debug\netcoreapp3.1\PhoneBookApp.pdb
+C:\Users\Admin\Desktop\PraktikaTasks\PhoneBookApp\PhoneBookApp\obj\Debug\netcoreapp3.1\PhoneBookApp.genruntimeconfig.cache

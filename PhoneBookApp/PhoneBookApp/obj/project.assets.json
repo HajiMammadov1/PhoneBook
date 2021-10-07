@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\PhoneBookApp\\PhoneBookApp\\PhoneBookApp.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\PhoneBook\\PhoneBookApp\\PhoneBookApp\\PhoneBookApp.csproj",
       "projectName": "PhoneBookApp",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\PhoneBookApp\\PhoneBookApp\\PhoneBookApp.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\PhoneBook\\PhoneBookApp\\PhoneBookApp\\PhoneBookApp.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\PhoneBookApp\\PhoneBookApp\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\PhoneBook\\PhoneBookApp\\PhoneBookApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
